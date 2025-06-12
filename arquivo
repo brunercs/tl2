@@ -1,0 +1,8 @@
+tl2/
+├─ public/
+│   └─ index.html
+├─ src/
+│   ├─ App.jsx (ou App.js)
+│   ├─ main.jsx (ou index.js)
+│   └─ seus outros arquivos .js ou .jsx
+├─ package.json
